@@ -1,13 +1,6 @@
 # Basic-Express-Website
+
 Basic Express Website with Multiple Pages, Template and a working Contact Form.
-
-**Express JS :**
-Express JS is a Third Party Module for Node JS,an Entire MVC Framework. We can define our own Routes and interact with our Databases.
-
-
-1. Install Express JS by typing this command into your Terminal :    **sudo npm install -g express**
-2. Install Express Framework Generator : **sudo npm install -g express-generator**
-3. Run **npm install**
 
 
 ## Project Description and Features
@@ -16,14 +9,32 @@ Express JS is a Third Party Module for Node JS,an Entire MVC Framework. We can d
 * Routing System
 * Jade Templating
 * Working with Views
-* Nodemailer Module
 
 
 ## Project Sections
 
-* Express and Jade Template Setup
+* Installing and Setting up Express
+* Jade Template Setup
 * Page Routes and Views
-* Nodemailer Setup
+
+
+## Section 1 (Installing and Setting up Express)
+
+### Express JS 
+Express JS is a Third Party Module for Node JS,an Entire MVC Framework. We can define our own Routes and interact with our Databases.
+
+Install Express JS through: ``` npm install -g express ```
+
+Install Express JS Generator for generating the framework folders  and files for our application. 
+``` npm install -g express-generator ```
+
+Now, you can run the command ``` express express-website ```
+
+
+## Section 2 (Jade Template Setup)
+
+### Jade 
+Default HTML Helper or Engine for Express with some different syntactical structure than standard HTML.There is no tags.
 
 
 
