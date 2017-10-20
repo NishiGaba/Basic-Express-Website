@@ -29,6 +29,17 @@ Install Express JS Generator for generating the framework folders  and files for
 ``` npm install -g express-generator ```
 
 Now, you can run the command ``` express express-website ```
+Then run command ``` npm Install ``` in the Project Directory 
+
+This will create a project struture like this: 
+
+	-- bin 
+	-- node_modules		
+	-- public
+	-- routes
+	-- views
+	-- app.js
+	-- package.json
 
 
 ## Section 2 (Jade Template Setup)
