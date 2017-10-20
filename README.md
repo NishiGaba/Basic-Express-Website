@@ -2,6 +2,10 @@
 
 Basic Express Website with Multiple Pages, Template and a working Contact Form.
 
+### Things to Know Before Start
+
+How to Setup [Node_JS_Web_Server](https://github.com/NishiGaba/Node-JS-Web-Server)
+
 
 ## Project Description and Features
 
@@ -16,11 +20,6 @@ Basic Express Website with Multiple Pages, Template and a working Contact Form.
 * Installing and Setting up Express
 * Jade Template Setup
 * Page Routes and Views
-
-
-## Things to Know Before Start
-
-How to Setup [Node_JS_Web_Server](https://github.com/NishiGaba/Node-JS-Web-Server)
 
 
 ## Section 1 (Installing and Setting up Express)
@@ -74,8 +73,8 @@ To know more about Nodemon ,visit these links:
 * [Simple_and_Best_Way_to_Practice_Javacsript](https://medium.com/dev-blogs/simple-and-best-way-to-practice-javascript-f91e8de1232e)
 * [nodemon](https://www.npmjs.com/package/nodemon)
 
-
-
+In this Section, we are going to Setup Bootstrap Theme and updating the views by changing the content in layout.jade,
+index.jade in the ``` views``` Directory.
 
 
 ## License
