@@ -46,6 +46,7 @@ This will create a project struture like this:
 	</> package.json
 
 
+
 ## Section 2 (Jade Template Setup)
 
 ### Jade 
@@ -64,6 +65,7 @@ Check views :
 Jade Template Setup is Done. Well Done :sparkles: 
 
 
+
 ## Section 3 (Page Routes and Views)
 
 First of all, Install **Nodemon** Module to increase your Coding and Time Efficieny. 
@@ -75,6 +77,9 @@ To know more about Nodemon ,visit these links:
 
 In this Section, we are going to Setup Bootstrap Theme and updating the views by changing the content in layout.jade,
 index.jade in the ``` views``` Directory.
+
+We are going to add some new views and routes for **About Us** and **Contact Us** and then require them in our ``` app.js ``` file 
+
 
 
 ## License

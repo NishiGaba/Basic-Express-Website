@@ -6,19 +6,17 @@ block content
 			h1	Contact Us
 			form(method='POST' action='/register')
 			div.form-group
-			label(for='name') Name:
-			input#name.form-control(type='text', placeholder='first and last' name='name')
+			label(for='firstName') First Name:
+			input#firstName.form-control(type='text', placeholder='First Name' name='firstName')
+			div.form-group
+			label(for='lastName') Last Name:
+			input#lastName.form-control(type='text', placeholder='Last Name' name='lastName')
 			div.form-group
 			label(for='email') Email:
 			input#email.form-control(type='email', placeholder='name@email.com' name='email')
 			div.form-group
-			label(for='favoriteBook') Favorite Book:
-			input#favoriteBook.form-control(type='text', placeholder='title of book' name='favoriteBook')
-			div.form-group
-			label(for='pw') Password:
-			input#pw.form-control(type='password' name='password')
-			div.form-group
-			label(for='pw2') Confirm Password:
-			input#pw2.form-control(type='password' name='confirmPassword')
+			label(for='favoriteBook') Message:
+			textarea#favoriteBook.form-control(placeholder='Enter your Message' name='message')
+			br
 			button.btn.btn-primary(type='submit') Sign up
 							
