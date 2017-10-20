@@ -18,6 +18,11 @@ Basic Express Website with Multiple Pages, Template and a working Contact Form.
 * Page Routes and Views
 
 
+## Things to Know Before Start
+
+How to Setup [Node_JS_Web_Server](https://github.com/NishiGaba/Node-JS-Web-Server)
+
+
 ## Section 1 (Installing and Setting up Express)
 
 ### Express JS 
@@ -57,12 +62,19 @@ Check views :
 	</> layout.jade  (contains core HTML)
 	</> error.jade
 
-**Bang** :sparkles: Jade Template Setup is Done. Well Done !!! 
+Jade Template Setup is Done. Well Done :sparkles: 
 
 
 ## Section 3 (Page Routes and Views)
 
-Coming Soon...
+First of all, Install **Nodemon** Module to increase your Coding and Time Efficieny. 
+
+To know more about Nodemon ,visit these links:
+
+* [Simple_and_Best_Way_to_Practice_Javacsript](https://medium.com/dev-blogs/simple-and-best-way-to-practice-javascript-f91e8de1232e)
+* [nodemon](https://www.npmjs.com/package/nodemon)
+
+
 
 
 
