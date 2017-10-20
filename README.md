@@ -33,13 +33,13 @@ Then run command ``` npm Install ``` in the Project Directory
 
 This will create a project struture like this: 
 
->> bin 
->> node_modules		
->> public
->> routes
->> views
->> app.js
->> package.json
+	[-] bin 
+	[-] node_modules		
+	[-] public
+	[-] routes
+	[-] views
+	</> app.js
+	</> package.json
 
 
 ## Section 2 (Jade Template Setup)
@@ -51,13 +51,11 @@ Now, we are going to require essential modules and routes and then eventually cr
 
 Now, run command ``` npm start ``` in your terminal. 
 
-Check views: 
+Check views : 		
 
->> views
->>  >  index.jade   (main content of Express Default Page)
->>  > layout.jade  (contains core HTML)
->>  > error.jade
-
+	</> index.jade   (main content of Express Default Page)
+	</> layout.jade  (contains core HTML)
+	</> error.jade
 
 **Bang** :sparkles: Jade Template Setup is Done. Well Done !!! 
 
