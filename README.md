@@ -82,7 +82,16 @@ We are going to add some new views and routes for **About Us** and **Contact Us*
 
 Our Basic Express Website is Ready with Multiple Routes and a Working Contact Form.
 
-**Good Work** :smile: 
+
+## How to run this Project:
+
+* Clone this repository by typing following command in your Terminal: 
+	``` git clone https://github.com/NishiGaba/Basic-Express-Website.git ``` 
+* Then run ``` npm install ``` in the Cloned Project Directory
+* In last, run ``` nodemon ./bin/www ``` command in your Terminal
+
+**Whoa** :smile: Awesome Express Website is running in your Browser. Check it out.
+
 
 ## License
 
